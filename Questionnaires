@@ -1,8 +1,35 @@
 Q1. Write the title of your project.
 A1. Bluro (Blue hero)
 
-Q2. 
-A2.
+Q2. What is the goal of the game?
+A2. The goal of the game is that Bluro should get all the points and defeat the enemies.
 
-Q3.
-A3.
+Q3. Write a brief of your game.
+A3. The main character or pc(Playing character) is bluro and there will be bombs which are the enemies. There are also coins where Bluro will have to touch it to get points.
+
+Q4.Which are the playing characters of this game? 
+●	Playing characters are the ones which respond to the user based on the input from the user
+●	Cars, monkeys, dinos, wizards etc, are the playing characters in the game.  
+Number	Character Name	What can this character do? 
+A4: 
+1. Bluro (hero)	
+
+Q5. Which are the Non Playing Characters of this game?
+●	Non Playing characters are the ones which don't have an action or a behaviour when the user interacts with the game.
+●	Hurdles, stones, bananas, coins, etc are non playing characters in the game.   
+Number	Character Name	What can this character do? 
+A5:
+1. Bomb1		
+2. Bomb2		
+3. Bomb3		
+4. Bomb4		
+5. Bomb5		
+6. Bomb6		
+7. Ast1	
+8. Ast2
+9. Ast3
+10. Ast4
+11. Coins for points
+
+Q6. How do plan to make your game engaging?
+A6. I plan to write the codes in VSC (Visual Studio Code). 
